@@ -9,6 +9,17 @@
 5. Back to your Google sheet, refresh the page, a **CRYPTO** menu will appear next to **Help**
 6. That's it! You now have the `CRYPTO_PRICE()` function available in your sheet.
 
+## Post-installation steps
+On your first installation, you won't have the price data right away, so you need to fetch it.
+1. Go to **CRYPTO** &rsaquo; **Fetch API data**.
+2. Wait for the script to finish running.
+3. Go to **CRYPTO** &rsaquo; **Refresh prices**.
+
+Note: These two steps are required whenever you want to have the latest prices displayed.
+
+## Refresh prices automatically
+_Coming soon..._
+
 ## Usage
 Display prices of a single cell:
 ```
