@@ -35,12 +35,14 @@ Display prices of a range for the BTC pair:
 ```
 
 # Screenshots
-![Screenshot CRYPTO UI Menu](https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-menu.png "Screenshot CRYPTO UI Menu")
+<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-menu.png" />
 
-![Preview horizontal USDT](https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-hor-usdt.png "Preview horizontal USDT")
+<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-menu.png" width="500" />
 
-![Preview horizontal BTC](https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-hor-btc.png "Preview horizontal BTC")
+<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-hor-usdt.png" width="500" />
 
-![Preview vertical USDT](https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-ver-usdt.png "Preview vertical USDT")
+<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-hor-btc.png" width="500" />
 
-![Preview vertical BTC](https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-ver-btc.png "Preview vertical BTC")
+<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-ver-usdt.png" width="500" />
+
+<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-ver-btc.png" width="500" />
