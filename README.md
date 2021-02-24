@@ -33,3 +33,7 @@ Display prices of a range for the BTC pair:
 ```
 =CRYPTO_PRICE(A1:A10, "BTC")
 ```
+
+# Screenshots
+UI menu
+![Screenshot CRYPTO UI Menu](https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-menu.png "Screenshot CRYPTO UI Menu")
