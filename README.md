@@ -35,5 +35,12 @@ Display prices of a range for the BTC pair:
 ```
 
 # Screenshots
-UI menu
 ![Screenshot CRYPTO UI Menu](https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-menu.png "Screenshot CRYPTO UI Menu")
+
+![Preview horizontal USDT](https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-hor-usdt.png "Preview horizontal USDT")
+
+![Preview horizontal BTC](https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-hor-btc.png "Preview horizontal BTC")
+
+![Preview vertical USDT](https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-ver-usdt.png "Preview vertical USDT")
+
+![Preview vertical BTC](https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-ver-btc.png "Preview vertical BTC")
