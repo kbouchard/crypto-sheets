@@ -49,7 +49,7 @@ Create a new trigger that refresh the data every minutes.
 
 You should now have your two triggers:
 
-<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-trigger-triggers.png" width="626" />
+<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-triggers.png" width="626" />
 
 **⚠️ When using auto-refresh, there is currently an issue affecting the =CRYPTO_PRICE() when you switch tab and come back to the sheet, they stay in "loading..." state. You can fix it by refreshing prices manually through the CRYPTO menu.**
 
