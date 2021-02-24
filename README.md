@@ -39,13 +39,16 @@ In order to refresh prices automatically, two things needs to happen. First, the
 
 ### Create the Fetch API data trigger
 Create a new trigger that fetch the API data every 5 minutes (could be 10 too, note: I don't recommend every 1 minutes, itit might affect performance).
+
 <img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-trigger-fetch.png" width="372" />
 
 ### Create the Refresh trigger
 Create a new trigger that refresh the data every minutes.
+
 <img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-trigger-refresh.png" width="370" />
 
 You should now have your two triggers:
+
 <img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-trigger-triggers.png" width="626" />
 
 **⚠️ When using auto-refresh, there is currently an issue affecting the =CRYPTO_PRICE() when you switch tab and come back to the sheet, they stay in "loading..." state. You can fix it by refreshing prices manually through the CRYPTO menu.**
