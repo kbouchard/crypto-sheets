@@ -35,14 +35,12 @@ Display prices of a range for the BTC pair:
 ```
 
 # Screenshots
-<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-menu.png" />
+<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-menu.png" width="125" /> 
 
-<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-menu.png" width="500" />
+<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-hor-usdt.png" width="736" />
 
-<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-hor-usdt.png" width="500" />
+<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-hor-btc.png" width="733" />
 
-<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-hor-btc.png" width="500" />
+<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-ver-usdt.png" width="366" />
 
-<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-ver-usdt.png" width="500" />
-
-<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-ver-btc.png" width="500" />
+<img src="https://github.com/kbouchard/crypto-sheets/blob/main/screenshots/ss-demo-ver-btc.png" width="382" />
